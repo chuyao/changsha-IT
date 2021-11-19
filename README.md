@@ -25,15 +25,15 @@
 > 长沙高校主要分为国防科技大学和其它高校
 >
 > *以下列表不代表任何排名*
-- 湖南大学
-- 中南大学
-- 长沙理工大学
-- 湖南师范大学
-- 湖南农业大学
-- 中南林业科技大学
-- 湖南工商大学
-- 湖南中医药大学
-- 国防科技大学
+- [湖南大学](https://www.hnu.edu.cn/)
+- [中南大学](https://www.csu.edu.cn/)
+- [长沙理工大学](https://www.csust.edu.cn/)
+- [湖南师范大学](https://www.hunnu.edu.cn/)
+- [湖南农业大学](https://www.hunau.edu.cn/)
+- [中南林业科技大学](https://www.csuft.edu.cn/)
+- [湖南工商大学](http://www.hutb.edu.cn/)
+- [湖南中医药大学](https://www.hnucm.edu.cn/)
+- [国防科技大学](https://www.nudt.edu.cn/)
 
 
 ## 工作
