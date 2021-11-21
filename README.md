@@ -87,7 +87,7 @@
 
 - 地铁有7条路线
 - 公交站也挺多的
-- 另外还有轻轨站，很方便去周年城市，比如：株洲、湘潭
+- 另外还有轻轨站，很方便去周边城市，比如：株洲、湘潭
 
 ## 其他
 
@@ -99,5 +99,5 @@
 
 ## 感谢
 
-- [@CoderLeixiaoshuai](https://github.com/CoderLeixiaoshuai) 的 [wuhan-IT](https://github.com/smileArchitect/https://github.com/CoderLeixiaoshuai/wuhan-IT)
+- [@CoderLeixiaoshuai](https://github.com/CoderLeixiaoshuai) 的 [wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT)
 - [@yihong0618](https://github.com/yihong0618) 的 [dalian-IT](https://github.com/yihong0618/dalian-IT)
