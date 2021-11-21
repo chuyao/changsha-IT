@@ -81,6 +81,12 @@
 - 长沙只有冬天和夏天
 - 长沙的气候确实不太好，冬天太冷，夏天太热，还经常下雨
 
+## 交通
+
+- 地铁有7条路线
+- 公交站也挺多的
+- 另外还有轻轨站，很方便去周年城市，比如：株洲、湘潭
+
 ## 其他
 
 - 长沙第一家 Apple 官方直营的 Apple Store 正式开业了
@@ -91,5 +97,5 @@
 
 ## 感谢
 
-- [@smileArchitect](https://github.com/CoderLeixiaoshuai) 的 [wuhan-IT](https://github.com/smileArchitect/https://github.com/CoderLeixiaoshuai/wuhan-IT)
+- [@CoderLeixiaoshuai](https://github.com/CoderLeixiaoshuai) 的 [wuhan-IT](https://github.com/smileArchitect/https://github.com/CoderLeixiaoshuai/wuhan-IT)
 - [@yihong0618](https://github.com/yihong0618) 的 [dalian-I](https://github.com/yihong0618/dalian-IT)
