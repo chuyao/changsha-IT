@@ -19,7 +19,7 @@
 
 > 以下列表不代表任何排名
 > 
-> 如果你对某个公司有了解，可以按上面👇的模板编写，欢迎补充👏，帮助大家排坑，让一线浪子顺利回家！❤️
+> 如果你对某个公司有了解，可以按下面👇的模板编写，欢迎补充👏，帮助大家排坑，让一线浪子顺利回家！❤️
 
 ### 福米科技
 
@@ -99,13 +99,13 @@
 
 欢迎任何 `PR`
 
-## 感谢所有为 changsha-IT 作出贡献的人
+### 感谢所有为 `changsha-IT` 作出贡献的人
 
 <a href="https://github.com/chuyao/changsha-IT/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=chuyao/changsha-IT" />
 </a>
 
-## 并感谢下列 repo 对 changsha-IT 的启发
+### 并感谢下列 `repos` 对 `changsha-IT` 的启发
 
 - [@CoderLeixiaoshuai](https://github.com/CoderLeixiaoshuai) 的 [wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT)
 - [@yihong0618](https://github.com/yihong0618) 的 [dalian-IT](https://github.com/yihong0618/dalian-IT)
