@@ -47,6 +47,8 @@
 
 ### 芒果TV
 
+### 安克
+
 ### 兴盛优选
 
 ### 天鹅到家
@@ -97,7 +99,13 @@
 
 欢迎任何 `PR`
 
-## 感谢
+## 感谢所有为 changsha-IT 作出贡献的人
+
+<a href="https://github.com/chuyao/changsha-IT/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=chuyao/changsha-IT" />
+</a>
+
+## 并感谢下列 repo 对 changsha-IT 的启发
 
 - [@CoderLeixiaoshuai](https://github.com/CoderLeixiaoshuai) 的 [wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT)
 - [@yihong0618](https://github.com/yihong0618) 的 [dalian-IT](https://github.com/yihong0618/dalian-IT)
