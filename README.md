@@ -1,4 +1,5 @@
 **<p align="center">[changsha-IT](https://github.com/chuyao/changsha-IT)</p>**
+====
 
 「长沙」湖南省会，别名星城，一座天性如火的城市，美食的天堂，口味虾、臭豆腐、猪油拌粉、糖油粑粑...在这里，娭毑臭干炸得香，细伢米粉嗦得响，解放西路沾烟火，岳麓山上颂古今！一线互联网打拼的游子们，如果你觉得累了，就回家吧 ❤️
 
@@ -14,6 +15,7 @@
 - [湖南工商大学](http://www.hutb.edu.cn/)
 - [湖南中医药大学](https://www.hnucm.edu.cn/)
 - [国防科技大学](https://www.nudt.edu.cn/)
+- [长沙学院](http://www.ccsu.cn/)
 
 ## 互联网企业
 
