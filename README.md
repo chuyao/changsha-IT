@@ -141,6 +141,3 @@
 
 - [@CoderLeixiaoshuai](https://github.com/CoderLeixiaoshuai) 的 [wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT)
 - [@yihong0618](https://github.com/yihong0618) 的 [dalian-IT](https://github.com/yihong0618/dalian-IT)
-
--
-**[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")**
